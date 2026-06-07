@@ -1,2 +1,5 @@
 "H4ck4ht0n" 
 "Los archivos de la API se encuentran en la RAMA Evidencia"
+"El Agente fue alimentado con datos simulados hasta que se adaptaron los cvs con mongo a tableu"
+"Los archivos Test son evidnecias de pruebas realizadas en el agente"
+"Be Happy :)"
